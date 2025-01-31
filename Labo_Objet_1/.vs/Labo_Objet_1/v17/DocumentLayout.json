@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elodi\\OneDrive\\Bureau\\Session 2 Bart\\Labo Objet\\Labo_Objet_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E08ECF-B533-4F9E-9A7E-00F0AD1B5CEC}|Labo_Objet_1\\Labo_Objet_1.vcxproj|C:\\Users\\elodi\\OneDrive\\Bureau\\Session 2 Bart\\Labo Objet\\Labo_Objet_1\\Labo_Objet_1\\Labo_Objet_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4E08ECF-B533-4F9E-9A7E-00F0AD1B5CEC}|Labo_Objet_1\\Labo_Objet_1.vcxproj|solutionrelative:Labo_Objet_1\\Labo_Objet_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Labo_Objet_1.cpp",
+              "DocumentMoniker": "C:\\Users\\elodi\\OneDrive\\Bureau\\Session 2 Bart\\Labo Objet\\Labo_Objet_1\\Labo_Objet_1\\Labo_Objet_1.cpp",
+              "RelativeDocumentMoniker": "Labo_Objet_1\\Labo_Objet_1.cpp",
+              "ToolTip": "C:\\Users\\elodi\\OneDrive\\Bureau\\Session 2 Bart\\Labo Objet\\Labo_Objet_1\\Labo_Objet_1\\Labo_Objet_1.cpp",
+              "RelativeToolTip": "Labo_Objet_1\\Labo_Objet_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T15:55:31.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
