@@ -170,7 +170,10 @@ void exercice7(void) {
 }
 
 void exercice8(void) {
-	int ligne = 10, i, c1, c2;
+	int ligne, i, c1, c2;
+
+	cout << "Entrez un nombre" << endl;
+	cin >> ligne;
 
 
 	for (i = 1; i < ligne / 2 + 2; i++) { // boucle triangle 1
@@ -186,10 +189,14 @@ void exercice8(void) {
 		cout << "\n";
 	}
 	
-	for (i = 1; i < ligne; i++) {
-		for (c1 = ligne / 2 - i + 1; c1 >= 1;c1--) {
-			cout << "     *\n";
+	for (i = 1; i <= ligne; i++) { // Ligne de la fleche 
+		for (int c = ligne / 2; c > 0;c--) {
+			cout << " ";
 		}
+		for (int j = i; j <= i; j++) {
+			cout << "*";
+		}
+		cout << "\n";
 	}
 
 
