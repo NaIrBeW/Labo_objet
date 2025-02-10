@@ -2,6 +2,7 @@
 #include <iostream>
 #include <cstdio>
 #include <stdio.h>
+#include <math.h>
 #include <cmath>
 using namespace std;
 
