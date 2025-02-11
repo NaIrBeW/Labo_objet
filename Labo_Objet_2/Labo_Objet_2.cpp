@@ -9,7 +9,9 @@
 #include <algorithm>
 #include <sstream>
 using namespace std;
-
+//https://www.geeksforgeeks.org/swap-in-cpp/ (exercice 4, comprehension de la fonction swap **PAS COPIER**)
+//https://www.geeksforgeeks.org/stringstream-c-applications/ (comprehension stringstream)
+//https://www.geeksforgeeks.org/stdstoi-function-in-cpp/ (fonction stoi et comprehension) 
 
 void exercice1() {
     string mot;
