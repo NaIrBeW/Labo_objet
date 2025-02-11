@@ -5,6 +5,7 @@
 #include <math.h>
 #include <cmath>
 using namespace std;
+//https://openclassrooms.com/forum/sujet/losange (exercice 7)
 
 void exercice1(void) {
 	int num1,num2,num3,num4;
